@@ -273,7 +273,7 @@
         "videoUpdateDataNotify": "Your data has been successfully updated..",
         "videoUpdateDataNotifyError": "Error updating",
         "videoUpdateDataRequired":"Please fill in the required fields",
-        "videoRemoved": "Your video has removed",
+        "videoRemoved": "Your video has been removed",
         "videoError": "Error",
         "videoRemovedConfirmTitle": "Are you sure?",
         "videoRemovedConfirmText": "This will unpublish",
