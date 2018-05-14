@@ -520,7 +520,7 @@
         "loginProfileCancelButton": "Cancel",
         "videoAlreadyPublishedTitle": "Video already published!",
         "videoAlreadyPublishedText": "You may edit this video information under publications in your profile",
-        "videoSuccessfuly": "Your video has been successfuly uploaded, can take a while until it is being checked and published",
+        "videoSuccessfuly": "Your video has been successfuly uploaded, it can take a while until it is being checked and published",
         "authorizationYoutube": "In case of not having authorization please click AUTHORIZE and follow the steps to give authorization to check your youtube content",
         "authorizeButton": "Authorize",
         "UnauthorizeButton": "Unauthorize",
