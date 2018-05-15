@@ -307,7 +307,7 @@
             "copiedClipBoard": "Votre clé de diffusion a été copiée dans le presse-papiers",
             "copiedClipBoardTransmission": "Votre URL de transmission a été copiée dans le presse-papiers",
             "confirmDeleteTitle": "Supprimer la clé de diffusion",
-            "confirmDeleteText": "¿ Êtes-vous sûr de vouloir supprimer cette clé de diffusion ?",
+            "confirmDeleteText": "¿Êtes-vous sûr de vouloir supprimer cette clé de diffusion?",
             "confirmDeleteButton": "Supprimer"
         },
         "Tutorial": {
