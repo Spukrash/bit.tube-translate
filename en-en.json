@@ -358,7 +358,7 @@
                 },
                 "CreateKey":{
                         "noWallet": "You don't have a wallet",
-                        "noWalletText": "In this way, you will not receive any revenue for this broadcast",
+                        "noWalletText": "Without any wallet, you will not receive any revenue for this broadcast",
                         "cancelWalletButton" : "Cancel",
                         "createWalletButton": "Create Wallet"
                 }
